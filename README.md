@@ -1,2 +1,2 @@
 # git-corces
-##for lerning git and github
+## for lerning git and github
